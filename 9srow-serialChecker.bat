@@ -112,4 +112,4 @@ echo Serial numbers have been saved in a .txt file in the same directory as the 
 timeout /t 5 /nobreak >nul
 goto CheckSerials
 
-rem made by voix2rêve (v2r)
+rem made by 9srow
